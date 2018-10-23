@@ -1,0 +1,15 @@
+.bg-background-reto {
+  background-color: #ff5851
+}
+
+.color-white {
+  -webkit-transition: background-color 700ms linear;
+  -moz-transition: background-color 700ms linear;
+  -o-transition: background-color 700ms linear;
+  -ms-transition: background-color 700ms linear;
+  transition: background-color 700ms linear;
+}
+
+.color-white {
+  background-color: #ffffff;
+}
